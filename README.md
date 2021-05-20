@@ -14,27 +14,26 @@ npx react-native run-android
 ## Working and UI
 
 
--Home page for choosing places to order from
+- Home page for choosing places to order from
+ 
+
+![Home](https://github.com/DevilAeron/ZomatoQuadB/blob/main/Themes/Home.png?raw=true) ![Home1](https://github.com/DevilAeron/ZomatoQuadB/blob/main/Themes/Home1.png?raw=true)
 
 
--![Home](https://github.com/DevilAeron/ZomatoQuadB/blob/main/Themes/Home.png?raw=true) -![Home1](https://github.com/DevilAeron/ZomatoQuadB/blob/main/Themes/Home1.png?raw=true)
+- Search
+
+![Search](https://github.com/DevilAeron/ZomatoQuadB/blob/main/Themes/Search.png?raw=true)
 
 
--Search
+- Profile to update personal details
 
 
--![Search](https://github.com/DevilAeron/ZomatoQuadB/blob/main/Themes/Search.png?raw=true)
+![Profile](https://github.com/DevilAeron/ZomatoQuadB/blob/main/Themes/Profile.png?raw=true)
 
 
--Profile to update personal details
+- Other Tabs
+ 
 
-
--![Profile](https://github.com/DevilAeron/ZomatoQuadB/blob/main/Themes/Profile.png?raw=true)
-
-
--Other Tabs
-
-
--![goout](https://github.com/DevilAeron/ZomatoQuadB/blob/main/Themes/GoOut.png?raw=true) 
--![pro](https://github.com/DevilAeron/ZomatoQuadB/blob/main/Themes/Pro.png?raw=true)
--![donate](https://github.com/DevilAeron/ZomatoQuadB/blob/main/Themes/Donate.png?raw=true)
+![goout](https://github.com/DevilAeron/ZomatoQuadB/blob/main/Themes/GoOut.png?raw=true) 
+![pro](https://github.com/DevilAeron/ZomatoQuadB/blob/main/Themes/Pro.png?raw=true)
+![donate](https://github.com/DevilAeron/ZomatoQuadB/blob/main/Themes/Donate.png?raw=true)
